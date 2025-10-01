@@ -3,9 +3,11 @@
 `BSc Computer Science @ Uni of Surrey`
 
 ## About Me
-- I build, ship, and tell the story in public.
-- Grew NextWorks social media to 250K+ followers in one year.
-- Help teach 145,000+ students cloud, AI, and tech skills
+- Predicted First Class, excelling in core modules such as Java Fundamentals (94%)
+- Love experimenting with new tools and technologies, exploring what’s possible, and turning ideas into working projects
+- Gained insights at Microsoft and Sky into AI workflows, Agile development, and software engineering practices
+- Former Co-Social Media Manager for Telugu Society, driving participation and engagement across 100+ members
+- Currently exploring Django, experimenting with SQL databases, and diving into ML basics
 
 ---
 
